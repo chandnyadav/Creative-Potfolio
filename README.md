@@ -1,6 +1,7 @@
 #### Creative Portfolio
   
- ![Screenshot 2024-10-27 185200](https://github.com/user-attachments/assets/476144db-1d6a-4200-b06b-9ee51ddbc5dc)
+ ![Screenshot 2024-10-27 190456](https://github.com/user-attachments/assets/898b4306-98a3-495e-90da-ec665b0ff158)
+
 
  ### Live Demo 
 
